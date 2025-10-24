@@ -1,5 +1,10 @@
 # GDocsClone
 
+<img width="1573" height="766" alt="Screenshot 2025-10-24 165721" src="https://github.com/user-attachments/assets/db7ee188-2862-4457-b32c-5a18325dc15e" />
+<img width="1583" height="758" alt="Screenshot 2025-10-24 165539" src="https://github.com/user-attachments/assets/5e9215e2-6ce6-4d6e-9b2c-c714f4119e74" />
+<img width="794" height="709" alt="Screenshot 2025-10-24 170129" src="https://github.com/user-attachments/assets/961fd659-1418-4c0a-891d-8613cd998cf6" />
+
+
 GDocsClone is a web-based application that emulates the core functionalities of Google Docs. Built using ASP.NET Core MVC, it offers a seamless user experience for document creation, editing, and management.
 
 ## Features
